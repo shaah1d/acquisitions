@@ -1,0 +1,25 @@
+{
+  "name": "acquisitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaah1d/acquisitions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/shaah1d/acquisitions/issues"
+  },
+  "homepage": "https://github.com/shaah1d/acquisitions#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
